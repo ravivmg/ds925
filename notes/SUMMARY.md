@@ -10,3 +10,4 @@
 * [Difference in Differences and Event Studies](difference-in-differences-and-event-studies.md)
 * [Non-Linear Estimates](non-linear-estimates.md)
 * [ML and HTEs](ml-and-htes.md)
+* [Resources](resources.md)
